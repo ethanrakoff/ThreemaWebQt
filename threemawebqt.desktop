@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ThreemaWebQt
+Encoding=UTF-8
+Version=0.1
+Type=Application
+Terminal=false
+Exec=threemawebqt
+Icon=threemawebqt.png
